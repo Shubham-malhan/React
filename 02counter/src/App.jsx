@@ -23,7 +23,6 @@ function App() {
 
   return (
     <>
-     
       <h1>Chai aur react</h1>
       <h3>counter value : {count}</h3>
       <button onClick={addValue}>Add value</button><br />
